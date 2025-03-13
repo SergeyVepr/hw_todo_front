@@ -129,6 +129,7 @@ div>input{
 .description{
   resize: vertical;
   display: flex;
+
   flex-direction: column;
   justify-content: center;
   align-items: center;
